@@ -4,22 +4,63 @@
     author: wilson Kinyua
 
 */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .container {
     background-color: rgb(243, 232, 228);
     height: 100%;
     width: 70%;
     margin: 50px 200px;
+    padding: 10px;
 }
 
-.band_name {
+#band_name {
     padding-top: 100px;
     text-align: center;  
     padding: 10px;
-    border: 1px chocolate solid;
+    border: 1px rgb(0, 0, 215) solid;
     margin: 20px;
+    color: rgb(0, 0, 215);
+    text-transform: uppercase;
+    font-weight: 900;
 }
 
 .band_img {
     width: 1000px;
     padding: 30px;
+    border-radius: 15px !important;    
+    height: 500px;
+}
+.who_are {
+    text-align: center;
+}
+
+.who_are p {
+    font-size: 18px;
+    /* font-weight: 700; */
+}
+
+.who_are h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+#quote {
+    text-align: center;
+    color: red;
+}
+
+.fb_quote {
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#members {
+    text-align: center;
+    font-size: 2em;
+    color: rgb(28, 92, 92);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
 }
