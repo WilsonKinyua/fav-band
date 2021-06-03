@@ -1,0 +1,25 @@
+/* 
+
+    styles
+    author: wilson Kinyua
+
+*/
+.container {
+    background-color: rgb(243, 232, 228);
+    height: 100%;
+    width: 70%;
+    margin: 50px 200px;
+}
+
+.band_name {
+    padding-top: 100px;
+    text-align: center;  
+    padding: 10px;
+    border: 1px chocolate solid;
+    margin: 20px;
+}
+
+.band_img {
+    width: 1000px;
+    padding: 30px;
+}
