@@ -125,9 +125,9 @@ h6 {
 }
 
 #members {
-    margin: 30px;
-    text-align: center;
-    color: red;
+  margin: 30px;
+  text-align: center;
+  color: red;
 }
 
 .container .card {
@@ -138,8 +138,9 @@ h6 {
 .container .card .card-body {
   padding: 10px;
 }
-.card-body p, h3 {
-    text-align: center;
+.card-body p,
+h3 {
+  text-align: center;
 }
 
 .card img.card-img {
