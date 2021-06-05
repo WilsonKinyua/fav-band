@@ -72,63 +72,30 @@ h1, h2, h3, h4, h5, h6{
     margin-top: 40px;
 }
 
-/* body {
-    font-family: Arial, Helvetica, sans-serif;
+.about {
+    margin: 30px;
 }
 
-.container {
-    background-color: rgb(243, 232, 228);
-    height: 100%;
-    width: 70%;
-    margin: 50px 200px;
-    padding: 10px;
+.ld
+{
+    width: 50%;
+    float: left;
+}
+.rd
+{
+    width: 50%;
+    float: right;
+}		
+
+.img {
+    width: 100%;
+    border-radius: 20px;
+    padding: 0 10px;
 }
 
-#band_name {
-    padding-top: 100px;
-    text-align: center;  
-    padding: 10px;
-    border: 1px rgb(0, 0, 215) solid;
-    margin: 20px;
-    color: rgb(0, 0, 215);
-    text-transform: uppercase;
-    font-weight: 900;
-}
-
-.band_img {
-    width: 860px;
-    padding: 30px;
-    border-radius: 15px !important;    
-    height: 500px;
-}
-.who_are {
-    text-align: center;
-}
-
-.who_are p {
-    font-size: 18px;
-    /* font-weight: 700; */
-}
-
-.who_are h2 {
-    text-align: center;
+.title_who {
+    font-weight: 800;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
     text-decoration: underline;
 }
-
-#quote {
-    text-align: center;
-    color: red;
-}
-
-.fb_quote {
-    font-weight: 900;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-#members {
-    text-align: center;
-    font-size: 2em;
-    color: rgb(28, 92, 92);
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-style: italic;
-} */
