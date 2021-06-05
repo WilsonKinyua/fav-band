@@ -14,7 +14,9 @@ This is Week 1 Independent Project at Moringa School. Its a site where I give mo
 ## Screenshots
 <img src="./images/1.png" alt="screenshot" />
 <img src="./images/2.png" alt="screenshot" />
-
+<img src="./images/3.png" alt="screenshot" />
+<img src="./images/4.png" alt="screenshot" />
+<img src="./images/5.png" alt="screenshot" />
 
 ## Known Bugs
  So far so good there are no bugs related to this project
