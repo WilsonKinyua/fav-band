@@ -11,6 +11,9 @@ This is Week 1 Independent Project at Moringa School. Its a site where I give mo
  The following languages have been used on this project:
  * HTML and CSS
 
+## Setup/Installation Requirements
+
+* Live link to view the project <a href="https://wilsonkinyua.github.io/fav-band/">View Favorite Band</a>
 ## Screenshots
 <img src="./images/1.png" alt="screenshot" />
 <img src="./images/2.png" alt="screenshot" />
