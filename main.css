@@ -4,7 +4,75 @@
     author: wilson Kinyua
 
 */
+
 body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 28px;
+    font-weight: 300;
+    font-size: 14px;
+    color:#282828;
+    background-color: #fff;
+}
+
+body, html{
+    overflow-x:hidden;
+    margin: 0;
+}
+
+a {
+    color: #68c3a3;
+}
+a,
+a > * {
+    outline: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+a:focus,
+a:hover {
+    outline: none;
+    color: #333333;
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-weight: 700;
+    margin:0;
+    text-transform: uppercase;
+}
+
+.homepage {
+    background: url('https://cdn07.allafrica.com/download/pic/main/main/csiid/00471607:4b3c73f8babcf80a930565efd00c906c:arc614x376:w1200.jpg') no-repeat center center;
+	-webkit-background-attachment: fixed;
+    background-attachment: fixed;
+	background-color: #222;
+	background-size: cover;
+	padding: 0;
+	position: relative;
+    height: 668px;
+}
+
+
+.home {
+    text-align: center;
+}
+
+#title {
+    padding-top: 250px;
+    font-size: 6rem;
+    color: rgb(62, 212, 223);
+    font-weight: 900;
+    font-style: oblique;
+}
+
+.p_home {
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+/* body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -28,7 +96,7 @@ body {
 }
 
 .band_img {
-    width: 1000px;
+    width: 860px;
     padding: 30px;
     border-radius: 15px !important;    
     height: 500px;
@@ -63,4 +131,4 @@ body {
     color: rgb(28, 92, 92);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-style: italic;
-}
+} */
