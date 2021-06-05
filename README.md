@@ -5,7 +5,7 @@
 This is Week 1 Independent Project at Moringa School. Its a site where I give more details about my Favorite Band.
 ## Setup/Installation Requirements
 * Git
-* Web-browser
+* Web-browser or your choice
 * Github
 ## Technologies Used
  The following languages have been used on this project:
